@@ -1,4 +1,4 @@
-# CobaltStrike Scripts
+# CobaltStrike
 
 这里记录收集一些优秀的CobaltStrike Scripts。
 

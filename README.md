@@ -39,6 +39,7 @@
 - [Erebus](https://github.com/DeEpinGh0st/Erebus)
 - [Cobalt-Strike-Aggressor-Scripts](https://github.com/timwhitez/Cobalt-Strike-Aggressor-Scripts)
 - https://github.com/wafinfo/cobaltstrike
+- https://github.com/Adminisme/ServerScan
 
 ## 五、权限提升
 

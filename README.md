@@ -81,3 +81,4 @@
 - https://github.com/bitsadmin/fakelogonscreen
 - https://github.com/Al1ex/CSPlugins
 - https://github.com/zer0yu/Awesome-CobaltStrike
+- https://github.com/josephkingstone/cobalt_strike_extension_kit

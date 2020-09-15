@@ -1,6 +1,6 @@
 # CobaltStrike
 
-这里记录收集一些优秀的CobaltStrike Scripts。
+这里记录收集一些优秀的CobaltStrike相关工具。
 
 这些项目未检测是否存在后门，请在虚拟机里面运行。
 
@@ -24,6 +24,7 @@
 
 - [BypassAV](https://github.com/hack2fun/BypassAV)
 - [Arsenal-Kits](https://github.com/Cliov/Arsenal)
+- [CS-Loader](https://github.com/Gality369/CS-Loader)
 
 ## 三、上线提醒
 
@@ -65,7 +66,7 @@
 
 ## 九、其他脚本
 
-- NoPowerShell
+- https://github.com/bitsadmin/nopowershell
 - https://github.com/darkr4y/geacon
 - https://github.com/vysecurity/ANGRYPUPPY
 - https://github.com/001SPARTaN/aggressor_scripts
@@ -77,3 +78,6 @@
 - https://github.com/TheKingOfDuck/XSS-Fishing2-CS
 - https://github.com/timwhitez/XSS-Phishing
 - https://github.com/alphaSeclab/cobalt-strike
+- https://github.com/bitsadmin/fakelogonscreen
+- https://github.com/Al1ex/CSPlugins
+- https://github.com/zer0yu/Awesome-CobaltStrike

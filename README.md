@@ -83,3 +83,4 @@
 - https://github.com/zer0yu/Awesome-CobaltStrike
 - https://github.com/josephkingstone/cobalt_strike_extension_kit
 - https://github.com/threatexpress/malleable-c2
+- https://github.com/isafe/cobaltstrike_brute

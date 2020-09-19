@@ -84,3 +84,5 @@
 - https://github.com/josephkingstone/cobalt_strike_extension_kit
 - https://github.com/threatexpress/malleable-c2
 - https://github.com/isafe/cobaltstrike_brute
+- https://github.com/0xthirteen/MoveKit
+

@@ -6,7 +6,7 @@
 
 下方有作者最新的Github更新，你也可以直接下载本项目。
 
-本项目创建时间为2020年8月8日。最近的一次更新时间为2020年9月15日。
+本项目创建时间为2020年8月8日。最近的一次更新时间为2020年9月22日。
 
 部分Scripts在CobaltStrike4.0以下无法运行，本项目只考虑兼容CobaltStrike4.0。
 
@@ -16,22 +16,22 @@
 
 @pandasec888、@k8gege、@QAX-A-Team、@rsmudge、......
 
-## 一、持久上线
+## 0x01-持久上线
 
 - [StayKit](https://github.com/0xthirteen/StayKit)
 
-## 二、免杀处理
+## 0x02-免杀处理
 
 - [BypassAV](https://github.com/hack2fun/BypassAV)
 - [Arsenal-Kits](https://github.com/Cliov/Arsenal)
 - [CS-Loader](https://github.com/Gality369/CS-Loader)
 
-## 三、上线提醒
+## 0x03-上线提醒
 
 - [CS_Mail_Tip](https://github.com/0x50j/CS_Mail_Tip)
 - WeChatPush
 
-## 四、综合框架
+## 0x04-综合框架
 
 - [taowu](https://github.com/pandasec888/taowu-cobalt-strike)
 - [Ladon](https://github.com/k8gege/Ladon)
@@ -42,29 +42,29 @@
 - https://github.com/wafinfo/cobaltstrike
 - https://github.com/Adminisme/ServerScan
 
-## 五、权限提升
+## 0x05-权限提升
 
 - weichi
 - [ElevateKit](https://github.com/rsmudge/ElevateKit)
 - [Aggressor-Script](https://github.com/rasta-mouse/Aggressor-Script)
 - [SweetPotato_CS](https://github.com/Tycx2ry/SweetPotato_CS)
 
-## 六、漏洞扫描
+## 0x06-漏洞扫描
 
 - [CVE-2018-4878](https://github.com/vysecurity/CVE-2018-4878)
 - [CVE-2020-0796](https://github.com/Rvn0xsy/CVE_2020_0796_CNA)
 - [MS17-010](https://github.com/phink-team/Cobaltstrike-MS17-010)
 
-## 七、流量隧道
+## 0x07-流量隧道
 
 - [UploadAndRunFrp](https://github.com/Ch1ngg/AggressorScript-UploadAndRunFrp)
 
-## 八、痕迹清理
+## 0x08-痕迹清理
 
 - [EventLogMaster](https://github.com/QAX-A-Team/EventLogMaster)
 - [Phant0m_cobaltstrike](https://github.com/p292/Phant0m_cobaltstrike)
 
-## 九、其他脚本
+## 0x09-其他脚本
 
 - https://github.com/bitsadmin/nopowershell
 - https://github.com/darkr4y/geacon
@@ -89,4 +89,5 @@
 - https://github.com/1135/1135-CobaltStrike-ToolKit
 - https://github.com/cube0x0/SharpeningCobaltStrike
 - https://github.com/Cliov/Arsenal
+- https://github.com/outflanknl/Zipper
 

@@ -90,4 +90,5 @@
 - https://github.com/cube0x0/SharpeningCobaltStrike
 - https://github.com/Cliov/Arsenal
 - https://github.com/outflanknl/Zipper
+- https://github.com/Al1ex/CSPlugins
 

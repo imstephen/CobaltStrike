@@ -64,7 +64,7 @@
 - [EventLogMaster](https://github.com/QAX-A-Team/EventLogMaster)
 - [Phant0m_cobaltstrike](https://github.com/p292/Phant0m_cobaltstrike)
 
-## 0x09-其他脚本
+## 0x09-其他内容
 
 - https://github.com/bitsadmin/nopowershell
 - https://github.com/darkr4y/geacon
@@ -91,4 +91,5 @@
 - https://github.com/Cliov/Arsenal
 - https://github.com/outflanknl/Zipper
 - https://github.com/Al1ex/CSPlugins
+- https://github.com/verctor/Cobalt_Homework
 

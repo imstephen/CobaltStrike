@@ -94,4 +94,5 @@
 - https://github.com/verctor/Cobalt_Homework
 - https://github.com/outflanknl/Spray-AD
 - https://github.com/Al1ex/CSPlugins
+- https://github.com/Apr4h/CobaltStrikeScan
 

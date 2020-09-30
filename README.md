@@ -25,6 +25,7 @@
 - [BypassAV](https://github.com/hack2fun/BypassAV)
 - [Arsenal-Kits](https://github.com/Cliov/Arsenal)
 - [CS-Loader](https://github.com/Gality369/CS-Loader)
+- https://paper.seebug.org/1349/
 
 ## 0x03-上线提醒
 

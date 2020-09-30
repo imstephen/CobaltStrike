@@ -6,7 +6,7 @@
 
 下方有作者最新的Github更新，你也可以直接下载本项目。
 
-本项目创建时间为2020年8月8日。最近的一次更新时间为2020年9月26日。
+本项目创建时间为2020年8月8日。最近的一次更新时间为2020年9月30日。
 
 部分Scripts在CobaltStrike4.0以下无法运行，本项目只考虑兼容CobaltStrike4.0。
 
@@ -95,4 +95,5 @@
 - https://github.com/outflanknl/Spray-AD
 - https://github.com/Al1ex/CSPlugins
 - https://github.com/Apr4h/CobaltStrikeScan
+- https://github.com/darkr4y/geacon
 

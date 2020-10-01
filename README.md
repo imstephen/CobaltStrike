@@ -97,4 +97,5 @@
 - https://github.com/Al1ex/CSPlugins
 - https://github.com/Apr4h/CobaltStrikeScan
 - https://github.com/darkr4y/geacon
+- https://github.com/EncodeGroup/AggressiveGadgetToJScript
 

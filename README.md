@@ -68,34 +68,64 @@
 ## 0x09-其他内容
 
 - https://github.com/bitsadmin/nopowershell
+
 - https://github.com/darkr4y/geacon
+
 - https://github.com/vysecurity/ANGRYPUPPY
+
 - https://github.com/001SPARTaN/aggressor_scripts
+
 - https://github.com/harleyQu1nn/AggressorScripts
+
 - https://github.com/bluscreenofjeff/AggressorScripts
+
 - https://github.com/mgeeky/cobalt-arsenal
+
 - https://github.com/zer0yu/Awesome-CobaltStrike
+
 - https://github.com/bytecod3r/Cobaltstrike-Aggressor-Scripts-Collection
+
 - https://github.com/TheKingOfDuck/XSS-Fishing2-CS
+
 - https://github.com/timwhitez/XSS-Phishing
+
 - https://github.com/alphaSeclab/cobalt-strike
+
 - https://github.com/bitsadmin/fakelogonscreen
+
 - https://github.com/Al1ex/CSPlugins
+
 - https://github.com/zer0yu/Awesome-CobaltStrike
+
 - https://github.com/josephkingstone/cobalt_strike_extension_kit
+
 - https://github.com/threatexpress/malleable-c2
+
 - https://github.com/isafe/cobaltstrike_brute
+
 - https://github.com/ryanohoro/csbruter
+
 - https://github.com/0xthirteen/MoveKit
+
 - https://github.com/1135/1135-CobaltStrike-ToolKit
+
 - https://github.com/cube0x0/SharpeningCobaltStrike
+
 - https://github.com/Cliov/Arsenal
+
 - https://github.com/outflanknl/Zipper
+
 - https://github.com/Al1ex/CSPlugins
+
 - https://github.com/verctor/Cobalt_Homework
+
 - https://github.com/outflanknl/Spray-AD
+
 - https://github.com/Al1ex/CSPlugins
+
 - https://github.com/Apr4h/CobaltStrikeScan
+
 - https://github.com/darkr4y/geacon
+
 - https://github.com/EncodeGroup/AggressiveGadgetToJScript
 

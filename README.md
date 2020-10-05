@@ -6,7 +6,7 @@
 
 下方有作者最新的Github更新，你也可以直接下载本项目。
 
-本项目创建时间为2020年8月8日。最近的一次更新时间为2020年10月04日。
+本项目创建时间为2020年8月8日。最近的一次更新时间为2020年10月05日。
 
 部分Scripts在CobaltStrike4.0以下无法运行，本项目只考虑兼容CobaltStrike4.0。
 
@@ -99,3 +99,4 @@
 - https://github.com/darkr4y/geacon
 - https://github.com/EncodeGroup/AggressiveGadgetToJScript
 - https://github.com/wafinfo/cobaltstrike
+- https://github.com/Apr4h/CobaltStrikeScan/releases/tag/1.0

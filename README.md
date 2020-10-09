@@ -6,7 +6,7 @@
 
 下方有作者最新的Github更新，你也可以直接下载本项目。
 
-本项目创建时间为2020年8月8日。最近的一次更新时间为2020年10月8日。
+本项目创建时间为2020年8月8日。最近的一次更新时间为2020年10月9日。
 
 部分Scripts在CobaltStrike4.0以下无法运行，本项目只考虑兼容CobaltStrike4.0。
 
@@ -25,6 +25,7 @@
 - [BypassAV](https://github.com/hack2fun/BypassAV)
 - [Arsenal-Kits](https://github.com/Cliov/Arsenal)
 - [CS-Loader](https://github.com/Gality369/CS-Loader)
+- [Doge-Loader](https://github.com/timwhitez/Doge-Loader)
 - https://paper.seebug.org/1349/
 
 ## 0x03-上线提醒

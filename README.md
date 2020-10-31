@@ -6,7 +6,7 @@
 
 下方有作者最新的Github更新，你也可以直接下载本项目。
 
-本项目创建时间为2020年8月8日。最近的一次更新时间为2020年10月26日。
+本项目创建时间为2020年8月8日。最近的一次更新时间为2020年10月31日。
 
 部分Scripts在CobaltStrike4.0以下无法运行，本项目只考虑兼容CobaltStrike4.0。
 
@@ -110,4 +110,5 @@
 - https://teamssix.com/year/201023-192553.html
 - https://github.com/Lz1y/SyncDog
 - https://github.com/Apr4h/CobaltStrikeScan
+- https://github.com/Freakboy/CobaltStrike
 

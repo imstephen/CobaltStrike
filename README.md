@@ -111,4 +111,5 @@
 - https://github.com/Lz1y/SyncDog
 - https://github.com/Apr4h/CobaltStrikeScan
 - https://github.com/Freakboy/CobaltStrike
+- https://github.com/Daybr4ak/C2ReverseProxy
 

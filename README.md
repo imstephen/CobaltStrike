@@ -6,7 +6,7 @@
 
 下方有作者最新的Github更新，你也可以直接下载本项目。
 
-本项目创建时间为2020年8月8日。最近的一次更新时间为2020年10月31日。
+本项目创建时间为2020年8月8日。最近的一次更新时间为2020年11月4日。
 
 部分Scripts在CobaltStrike4.0以下无法运行，本项目只考虑兼容CobaltStrike4.0。
 
@@ -112,4 +112,5 @@
 - https://github.com/Apr4h/CobaltStrikeScan
 - https://github.com/Freakboy/CobaltStrike
 - https://github.com/Daybr4ak/C2ReverseProxy
+- https://github.com/CCob/BOF.NET
 

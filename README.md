@@ -76,7 +76,6 @@
 - https://github.com/bluscreenofjeff/AggressorScripts
 - https://github.com/mgeeky/cobalt-arsenal
 - https://github.com/zer0yu/Awesome-CobaltStrike
-- https://github.com/bytecod3r/Cobaltstrike-Aggressor-Scripts-Collection
 - https://github.com/TheKingOfDuck/XSS-Fishing2-CS
 - https://github.com/timwhitez/XSS-Phishing
 - https://github.com/alphaSeclab/cobalt-strike
@@ -96,13 +95,10 @@
 - https://github.com/outflanknl/Spray-AD
 - https://github.com/Apr4h/CobaltStrikeScan
 - https://github.com/darkr4y/geacon
-- https://github.com/EncodeGroup/AggressiveGadgetToJScript
 - https://github.com/wafinfo/cobaltstrike
-- https://github.com/Apr4h/CobaltStrikeScan/releases/tag/1.0
 - https://github.com/SecIdiot/CobaltPatch
 - https://github.com/darkr4y/geacon
 - https://github.com/threatexpress/malleable-c2
-- https://github.com/EncodeGroup/AggressiveGadgetToJScript
 - https://github.com/m57/cobaltstrike_bofs
 - https://github.com/killswitch-GUI/CobaltStrike-ToolKit
 - https://github.com/Rvn0xsy/Cobaltstrike-atexec
@@ -113,4 +109,10 @@
 - https://github.com/Freakboy/CobaltStrike
 - https://github.com/Daybr4ak/C2ReverseProxy
 - https://github.com/CCob/BOF.NET
+- https://github.com/Apr4h/CobaltStrikeScan
+- https://github.com/rasta-mouse/Aggressor-Script
+- https://github.com/killswitch-GUI/CobaltStrike-ToolKit
+- https://github.com/bluscreenofjeff/AggressorScripts
+- https://github.com/EncodeGroup/AggressiveGadgetToJScript
+- https://github.com/bytecod3r/Cobaltstrike-Aggressor-Scripts-Collection
 

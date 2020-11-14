@@ -6,7 +6,7 @@
 
 下方有作者最新的Github更新，你也可以直接下载本项目。
 
-本项目创建时间为2020年8月8日。最近的一次更新时间为2020年11月13日。
+本项目创建时间为2020年8月8日。最近的一次更新时间为2020年11月14日。
 
 部分Scripts在CobaltStrike4.0以下无法运行，本项目只考虑兼容CobaltStrike4.0。
 
@@ -116,4 +116,5 @@
 - https://github.com/EncodeGroup/AggressiveGadgetToJScript
 - https://github.com/bytecod3r/Cobaltstrike-Aggressor-Scripts-Collection
 - https://github.com/Sifter-Ex/cPlug
+- https://github.com/rsmudge/cortana-scripts
 

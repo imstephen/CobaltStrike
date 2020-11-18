@@ -119,4 +119,5 @@
 - https://github.com/rsmudge/cortana-scripts
 - https://github.com/dcsync/pycobalt
 - https://github.com/uknowsec/SharpToolsAggressor
+- https://www.cnblogs.com/backlion/p/14000269.html
 

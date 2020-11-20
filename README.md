@@ -121,4 +121,5 @@
 - https://github.com/uknowsec/SharpToolsAggressor
 - https://www.cnblogs.com/backlion/p/14000269.html
 - https://github.com/hayasec/360SafeBrowsergetpass
+- https://github.com/S1ckB0y1337/Cobalt-Strike-CheatSheet
 

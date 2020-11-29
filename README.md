@@ -6,7 +6,7 @@
 
 下方有作者最新的Github更新，你也可以直接下载本项目。
 
-本项目创建时间为2020年8月8日。最近的一次更新时间为2020年11月26日。
+本项目创建时间为2020年8月8日。最近的一次更新时间为2020年11月29日。
 
 部分Scripts在CobaltStrike4.0以下无法运行，本项目只考虑兼容CobaltStrike4.0。
 
@@ -124,4 +124,5 @@
 - https://github.com/sk3w/beacon-object-files
 - https://xz.aliyun.com/t/8557
 - https://www.freebuf.com/articles/web/255876.html
+- https://github.com/Ridter/cs_custom_404
 
